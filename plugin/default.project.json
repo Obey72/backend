@@ -1,0 +1,9 @@
+{
+    "name": "AssetReuploader",
+    "tree": {
+        "$path": "src",
+        "Version": {
+            "$path": "Version.txt"
+        }
+    }
+}
